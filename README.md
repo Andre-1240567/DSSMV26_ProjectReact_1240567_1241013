@@ -7,6 +7,10 @@ Aplicação móvel multiplataforma desenvolvida em **React Native** no âmbito d
 * **Afonso Martins Sobreiro** — `1241013`
 
 ## Estrutura do Projeto (Arquitetura MVC)
+* `docs/` — Documentação do projeto, artefactos globais, casos de uso (US1–US11) e relatório final em LaTeX.
+  * `docs/global-artifacts/` — Modelo de domínio, arquitetura e especificações globais.
+  * `docs/Use Cases/` — Especificação de cada User Story (US1 a US11).
+  * `docs/report_overleaf/` — Estrutura e ficheiros de suporte ao relatório final.
 * `src/api/` — Clientes e serviços de comunicação com APIs externas (TMDB, Foursquare).
 * `src/components/` — Componentes visuais reutilizáveis da interface gráfica.
 * `src/constants/` — Definições de temas (Dark/Light mode) e configurações globais.
