@@ -2,6 +2,7 @@
 # 1. Dependências e Gestores de Pacotes
 # ==========================================
 node_modules/
+package-lock.json
 jspm_packages/
 bower_components/
 web_modules/
